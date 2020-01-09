@@ -25,3 +25,7 @@ library("riotR")
 Andrew Bernauer
 
 ## License
+
+## To do
++ Create realistic timeline to complete project
++ Write notes on R extensions manual. 
